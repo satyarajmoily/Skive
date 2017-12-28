@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/safe_bunking"
+            android:icon="@drawable/ic_safe"
+            android:title="Safe Bunking" />
+
+        <item
+            android:id="@+id/edit"
+            android:icon="@drawable/ic_mode_edit"
+            android:title="Edit Mode" />
+
+        <item
+            android:id="@+id/subjects"
+            android:icon="@drawable/ic_subjects"
+            android:title="Subjects" />
+        <item
+            android:id="@+id/timetable"
+            android:icon="@drawable/ic_timetable"
+            android:title="Timetable" />
+        <item
+            android:id="@+id/add_classes"
+            android:icon="@drawable/ic_class"
+            android:title="Required Percentage" />
+        <item
+            android:id="@+id/restore"
+            android:icon="@drawable/ic_restore"
+            android:title="Reset" />
+    </group>
+
+    <item android:title="Information">
+        <menu>
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_info"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

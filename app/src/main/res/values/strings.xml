@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Skive</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+         <string name="add_subjects">Add Subjects</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="_85">85%</string>
+    <string name="science">Science</string>
+    <string name="attended">ATTENDED</string>
+    <string name="bunked">BUNKED</string>
+    <string name="not_taken">NOT TAKEN</string>
+    <string name="type_yes_to_reset">TYPE \'YES\' TO RESET</string>
+    <string name="required_percentage">Required Percentage</string>
+    <string name="total_classes">Total Classes</string>
+    <string name="attended_text_view">ATTENDED </string>
+    <string name="total">TOTAL </string>
+    <string name="skive">Skive</string>
+    <string name="where_we_help_you_to_bunk">Where we help you to bunk</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="expected_percentage">EXPECTED PERCENTAGE</string>
+    <string name="total_percentage">TOTAL PERCENTAGE</string>
+    <string name="developed">DEVELOPED</string>
+    <string name="by">BY</string>
+    <string name="satyaraj">SATYARAJ</string>
+    <string name="percentage_is_the_overall_percentage_secured_until_now">Percentage is the overall percentage secured until now.</string>
+    <string name="expected_percentage_is_the_total_percentage_which_can_be_obtained_if_you_attend_all_classes">Expected percentage is the total percentage which can be obtained if you attend all classes.</string>
+
+</resources>

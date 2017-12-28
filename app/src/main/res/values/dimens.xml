@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="circleProgressRadius">90dp</dimen>
+    <dimen name="circleProgressThickness">10dp</dimen>
+    <color name="circleProgressCompleteStartGradient">#000fb9</color>
+    <color name="circleProgressCompleteEndGradient">#4f55ff</color>
+    <color name="circleProgressIncompleteStartGradient">#aeadad</color>
+    <color name="circleProgressIncompleteEndGradient">#aeadad</color>
+</resources>
